@@ -80,5 +80,3 @@ var todoModule = (function() {
 
 
 todoModule.init();
-
-
